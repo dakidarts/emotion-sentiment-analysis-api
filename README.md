@@ -1,5 +1,5 @@
 
-![CalcX - Emotion Sentiment Analysis API Cover](https://res.cloudinary.com/ds64xs2lp/image/upload/v1736096698/emosentbg_dz7eax.gif)
+![CalcX - Emotion Sentiment Analysis API Cover](emosentbg.gif)
 
 # 🌟 Emotion Sentiment Analysis API 🌟  
 **Effortlessly unlock text insights with AI-powered sentiment and emotion analysis!**  

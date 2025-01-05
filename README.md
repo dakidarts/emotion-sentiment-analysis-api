@@ -35,7 +35,7 @@ Analyze the sentiment of your input text across 6 languages.
 
 **Sample Request**:  
 ```bash
-GET /sentiment?text=I love this product!&lang=en
+GET /sentiment?text=I love this product!
 ```
 
 **Sample Response**:  
@@ -91,13 +91,13 @@ Identify up to 28 distinct emotions from English text.
 
 **Sample Request**:  
 ```bash
-GET /emotion?text=I'm so excited for the weekend!
+GET /emotion?text=Wow I'm so excited for the weekend!
 ```
 
 **Sample Response**:  
 ```json
 {
-  "input_text": "I'm so excited for the weekend!",
+  "input_text": "Wow I'm so excited for the weekend!",
   "predicted_emotion": "excitement",
   "probability_scores": [0.05, 0.02, 0.9, ...],
   "predicted_label": "excitement"
